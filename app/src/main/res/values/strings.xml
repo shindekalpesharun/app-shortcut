@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">App Shortcut</string>
+    <string name="short_label">Start Timer</string>
+    <string name="long_label">This Shortcut Start Timer</string>
+    <string name="disabled_message">Settings the timer is currently not possible</string>
+</resources>
